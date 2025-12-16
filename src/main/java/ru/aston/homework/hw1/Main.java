@@ -1,7 +1,4 @@
-package ru.aston.homework;
-
-import ru.aston.homework.hw1.Immutable;
-import ru.aston.homework.hw1.Mutable;
+package ru.aston.homework.hw1;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
