@@ -13,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -38,6 +39,7 @@
     "Application.ru.aston.homework.hw2.Main.executor": "Run",
     "Application.ru.aston.homework.hw3.Builder.Main.executor": "Run",
     "Application.ru.aston.homework.hw3.CoR.Main.executor": "Run",
+    "Application.ru.aston.homework.hw3.Proxy.Main.executor": "Run",
     "Application.ru.aston.homework.hw3.strategy.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -60,13 +62,13 @@
       <recent name="V:\WorkSpace\Java\Learning\src\main\java\ru\aston\homework" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ru.aston.homework.hw3.Proxy.Main">
-    <configuration name="ru.aston.homework.hw2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.aston.homework.hw2.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.aston.homework.hw3.Decorator.Main" />
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.aston.homework.hw2.*" />
+          <option name="PATTERN" value="ru.aston.homework.hw3.Decorator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ru.aston.homework.hw3.Proxy.Main" />
         <item itemvalue="Application.ru.aston.homework.hw3.Builder.Main" />
         <item itemvalue="Application.ru.aston.homework.hw3.CoR.Main" />
         <item itemvalue="Application.ru.aston.homework.hw3.strategy.Main" />
-        <item itemvalue="Application.ru.aston.homework.hw2.Main" />
       </list>
     </recent_temporary>
   </component>
