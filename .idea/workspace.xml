@@ -13,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -34,12 +35,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Main.executor": "Run",
+    "Application.Main.executor": "Debug",
     "Application.ru.aston.homework.hw2.Main.executor": "Run",
+    "Application.ru.aston.homework.hw3.Adapter.Main.executor": "Run",
+    "Application.ru.aston.homework.hw3.Builder.Main.executor": "Run",
+    "Application.ru.aston.homework.hw3.CoR.Main.executor": "Run",
+    "Application.ru.aston.homework.hw3.Proxy.Main.executor": "Run",
+    "Application.ru.aston.homework.hw3.strategy.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Modul__2",
+    "git-widget-placeholder": "Modul__3",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "V:/WorkSpace/Java/Learning/src/main/java/java/Main.java",
     "project.structure.last.edited": "Modules",
@@ -57,13 +63,13 @@
       <recent name="V:\WorkSpace\Java\Learning\src\main\java\ru\aston\homework" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ru.aston.homework.hw2.Main">
+  <component name="RunManager" selected="Application.ru.aston.homework.hw3.Adapter.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.aston.homework.hw1.Main" />
+      <option name="MAIN_CLASS_NAME" value="ru.aston.homework.hw3.Decorator.Main" />
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.aston.homework.hw1.*" />
+          <option name="PATTERN" value="ru.aston.homework.hw3.Decorator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +77,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ru.aston.homework.hw2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.aston.homework.hw2.Main" />
+    <configuration name="ru.aston.homework.hw3.Adapter.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.aston.homework.hw3.Adapter.Main" />
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.aston.homework.hw2.*" />
+          <option name="PATTERN" value="ru.aston.homework.hw3.Adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ru.aston.homework.hw3.Builder.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.aston.homework.hw3.Builder.Main" />
+      <module name="Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.aston.homework.hw3.Builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ru.aston.homework.hw3.CoR.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.aston.homework.hw3.CoR.Main" />
+      <module name="Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.aston.homework.hw3.CoR.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ru.aston.homework.hw3.Proxy.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.aston.homework.hw3.Proxy.Main" />
+      <module name="Learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.aston.homework.hw3.Proxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,8 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ru.aston.homework.hw2.Main" />
+        <item itemvalue="Application.ru.aston.homework.hw3.Adapter.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ru.aston.homework.hw3.Proxy.Main" />
+        <item itemvalue="Application.ru.aston.homework.hw3.Builder.Main" />
+        <item itemvalue="Application.ru.aston.homework.hw3.CoR.Main" />
       </list>
     </recent_temporary>
   </component>
