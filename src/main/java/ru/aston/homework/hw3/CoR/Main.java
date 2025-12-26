@@ -2,7 +2,6 @@ package ru.aston.homework.hw3.CoR;
 
 public class Main {
     public static void main(String[] args) {
-
         Approver manager = new Manager();
         Approver director = new Director();
         Approver ceo = new CEO();
